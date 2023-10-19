@@ -5,9 +5,11 @@ A Simple Portfolio and Blog app build with Django and templates styled with Boot
 # Running the Project Locally
 
 ## First, clone the repository to your local machine :
+![image](https://github.com/muslimbek77/SimplePortfolio/assets/48023644/a1e789ab-ba7c-415c-82a6-cc322ce9e59e)
+
 
 ```bash
-git clone https://github.com/SAzghour/Django-Project-Portfolio.git
+git clone https://github.com/muslimbek77/SimplePortfolio.git
 ```
 
 ## Create a virtual environment :
